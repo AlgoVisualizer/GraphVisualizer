@@ -79,10 +79,5 @@
     <td align="center"><img width="400px" src="https://media.giphy.com/media/L1K4LMxTaZ68j2qLo4/giphy.gif"></td>
     <td align="center"><img width="400px" src="https://media.giphy.com/media/XDGHPH6auW8L1xT3cg/giphy.gif"></td>
   </tr>
- </table>
+ </table
 
-## Authors
-
-- [Karim Elghamry](https://github.com/KarimElghamry)
-
-- [Ali Amin](https://github.com/Ali-Amin)
